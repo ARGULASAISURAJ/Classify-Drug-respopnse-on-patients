@@ -6,3 +6,7 @@ The feature sets of this dataset are Age, Sex, Blood Pressure, and Cholesterol o
 5 medications, Drug A, Drug B, Drug c, Drug x and y) that each patient responded to.
 
 A little Headsup about Decision Trees is also commented at the top of the notebook.
+
+Final Decison tree Algorithm-
+
+![](https://github.com/ARGULASAISURAJ/Drug-Classification-by-patients-response/blob/master/drugtree.png)
